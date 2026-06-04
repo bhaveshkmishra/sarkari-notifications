@@ -1,1 +1,438 @@
-
+[
+  {
+    "id": "SSC-CGL-24",
+    "title": "SSC CGL Assistant Section Officer",
+    "organization": "Staff Selection Commission (SSC)",
+    "postCode": "CGL-ASO-03",
+    "vacanciesCount": "17,727 Posts",
+    "minAge": 18,
+    "maxAge": 30,
+    "educationRequired": "Bachelor's Degree in any discipline",
+    "eligibleCategories": "All (General / OBC / SC / ST / EWS)",
+    "feeDetails": "General / OBC: ₹100, Others/Women: Free",
+    "applicationStartDate": "15 May 2026",
+    "applicationEndDate": "30 Jun 2026",
+    "officialLink": "https://ssc.gov.in",
+    "stepsToApply": "Step 1: Visit https://ssc.gov.in and complete One-Time Registration (OTR).||Step 2: Login using your Registration Number and Password.||Step 3: Go to Apply tab and select Combined Graduate Level Exam (CGL) 2026.||Step 4: Choose your preferred exam centers (Tier-1).||Step 5: Verify eligibility relaxation based on your category code.||Step 6: Submit application and download final copy.",
+    "aiPersonalizedTip": "This is a prime match for your profile! Excellent opportunities with massive central government perks and security.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 98,
+    "examPattern": "Tier 1: 100 Questions, 200 Marks, 60 Minutes. 0.50 negative marking.",
+    "syllabus": [
+      "General Intelligence & Reasoning",
+      "General Awareness",
+      "Quantitative Aptitude",
+      "English Comprehension"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "SSC CGL Combined Graduate Level Exam Guide",
+        "author": "R. Gupta's",
+        "buyLink": "https://www.amazon.in/dp/818312959X"
+      },
+      {
+        "title": "Objective General English",
+        "author": "S.P. Bakshi",
+        "buyLink": "https://www.amazon.in/dp/8190641320"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "POST-GDS-26",
+    "title": "India Post Gramin Dak Sevak (GDS)",
+    "organization": "Department of Posts, India",
+    "postCode": "GDS-BPM-10",
+    "vacanciesCount": "44,228 Vacancies",
+    "minAge": 18,
+    "maxAge": 40,
+    "educationRequired": "10th Standard (Matric) Pass",
+    "eligibleCategories": "All Categories",
+    "feeDetails": "General/OBC: ₹100, SC/ST/Female: Free",
+    "applicationStartDate": "01 Jun 2026",
+    "applicationEndDate": "22 Jun 2026",
+    "officialLink": "https://indiapostgdsonline.gov.in",
+    "stepsToApply": "Step 1: Go to indiapostgdsonline.gov.in portal.||Step 2: Create profile using OTR option.||Step 3: Enter Matric 10th Marks (Selection is direct, based on 10th Board merit percentage!).||Step 4: Choose your regional Post circles & options list.||Step 5: Apply preference lists and submit.",
+    "aiPersonalizedTip": "Zero exams! Selection is made strictly dynamically based on your high school 10th-grade percentage scores.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 96,
+    "examPattern": "No written exam. Selection is based on merit list derived from 10th standard marks.",
+    "syllabus": [
+      "Mathematics (10th Level)",
+      "Local Language",
+      "General Knowledge",
+      "Basic Computer Knowledge"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "India Post GDS Recruitment Guide",
+        "author": "Arihant Experts",
+        "buyLink": "https://www.amazon.in/dp/932529876X"
+      },
+      {
+        "title": "Lucent's General Knowledge",
+        "author": "Lucent Publications",
+        "buyLink": "https://www.amazon.in/dp/9386293028"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "POST-SSC-CGL-2026",
+    "title": "SSC Combined Graduate Level (CGL) 2026",
+    "organization": "Staff Selection Commission (SSC), India",
+    "postCode": "SSC-CGL-2026-B-C",
+    "vacanciesCount": "12,256 Vacancies",
+    "minAge": 18,
+    "maxAge": 32,
+    "educationRequired": "Bachelor's Degree (Graduation) in any discipline",
+    "eligibleCategories": "All Categories",
+    "feeDetails": "General/OBC/EWS: ₹100, SC/ST/Female/PwBD: Free",
+    "applicationStartDate": "21 May 2026",
+    "applicationEndDate": "22 Jun 2026",
+    "officialLink": "https://ssc.gov.in",
+    "stepsToApply": "Step 1: Go to official ssc.gov.in portal.||Step 2: Log in or complete One-Time Registration (OTR).||Step 3: Access the live application system and capture a mandatory live photograph via webcam/mobile app.||Step 4: Fill in personal and academic details, select post preferences, and choose exam centers.||Step 5: Pay the processing fee online (if applicable) and final-submit the application format.",
+    "aiPersonalizedTip": "Big Structural Changes! Sectional timings are introduced in Tier-1 (15 minutes per section). Speed and tactical time allocation will decide your qualifying cutoff.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 98,
+    "examPattern": "Tier 1: 100 Questions, 200 Marks, 60 Minutes (15 mins per section). 0.50 negative marking.",
+    "syllabus": [
+      "General Intelligence & Reasoning",
+      "General Awareness",
+      "Quantitative Aptitude",
+      "English Comprehension"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "SSC CGL Tier I & II Solved Papers",
+        "author": "Kiran Prakashan",
+        "buyLink": "https://www.amazon.in/dp/9354911002"
+      },
+      {
+        "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+        "author": "R.S. Aggarwal",
+        "buyLink": "https://www.amazon.in/dp/9355225134"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "POST-UPSC-DR-05-2026",
+    "title": "UPSC Direct Recruitment (Advt No. 05/2026)",
+    "organization": "Union Public Service Commission (UPSC)",
+    "postCode": "UPSC-GAZ-05-2026",
+    "vacanciesCount": "194 Vacancies",
+    "minAge": 21,
+    "maxAge": 40,
+    "educationRequired": "Degree/PG in Engineering, Science, Commerce, Economics or relevant field (Post-wise variation)",
+    "eligibleCategories": "All Categories",
+    "feeDetails": "General/OBC/EWS Male: ₹25, SC/ST/Female/PwBD: Free",
+    "applicationStartDate": "23 May 2026",
+    "applicationEndDate": "12 Jun 2026",
+    "officialLink": "https://upsconline.nic.in",
+    "stepsToApply": "Step 1: Visit the UPSC Online Recruitment Application (ORA) window at upsconline.nic.in/ora.||Step 2: Sign in using your OTR (One Time Registration) credentials.||Step 3: Pick the specific Group A or Group B Gazetted post matching your precise qualification.||Step 4: Upload high-quality digital proofs of your educational credentials and work experience certificates.||Step 5: Process the entry fee and complete your final submission layout.",
+    "aiPersonalizedTip": "Zero Written Tests! Shortlisting is done based on your academic profile and credentials, directly followed by a heavy-weight interview round for Permanent Gazetted Status.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 95,
+    "examPattern": "No written exam. Shortlisting based on academic profile and experience, followed by an interview.",
+    "syllabus": [
+      "General Aptitude",
+      "Relevant Subject Knowledge",
+      "Current Affairs",
+      "Interview Skills"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "UPSC Direct Recruitment Interview Guide",
+        "author": "Experts' Compilation",
+        "buyLink": "https://www.amazon.in/dp/B08L7V4Q4G"
+      },
+      {
+        "title": "The Hindu Newspaper (Daily)",
+        "author": "N. Ram",
+        "buyLink": "https://www.thehindu.com/subscription/"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "POST-SBI-APPR-2026",
+    "title": "SBI Apprentice Recruitment 2026",
+    "organization": "State Bank of India (SBI)",
+    "postCode": "CRPD/APPR/2026-27/07",
+    "vacanciesCount": "7,150 Vacancies",
+    "minAge": 20,
+    "maxAge": 28,
+    "educationRequired": "Bachelor's Degree (Graduation) in any stream",
+    "eligibleCategories": "All Categories",
+    "feeDetails": "General/OBC/EWS: ₹300, SC/ST/PwBD: Free",
+    "applicationStartDate": "19 May 2026",
+    "applicationEndDate": "08 Jun 2026",
+    "officialLink": "https://sbi.co.in/web/careers",
+    "stepsToApply": "Step 1: Go to the official SBI Careers current openings page.||Step 2: Locate the Apprentice engagement notification link and select New Registration.||Step 3: Fill out basic contact info to generate dynamic login credentials.||Step 4: Input your graduation metrics, select state preferences, and upload your local language proficiency declaration.||Step 5: Upload your standard photograph/signature scan, pay the entry fee online, and lock the final form.",
+    "aiPersonalizedTip": "Excellent practical platform! This offers a direct 1-year banking internship ecosystem inside corporate SBI with a monthly stipend growing up to ₹19,000, along with heavily weighted structural relaxations if you appear for regular SBI Clerk/PO vacancies later.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 94,
+    "examPattern": "Online written test: 100 Questions, 100 Marks, 60 Minutes. No negative marking.",
+    "syllabus": [
+      "General/Financial Awareness",
+      "General English",
+      "Quantitative Aptitude",
+      "Reasoning Ability & Computer Aptitude"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "SBI Apprentice Exam Guide",
+        "author": "Disha Experts",
+        "buyLink": "https://www.amazon.in/dp/9389926490"
+      },
+      {
+        "title": "Objective General English",
+        "author": "S.P. Bakshi",
+        "buyLink": "https://www.amazon.in/dp/8190641320"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "POST-UPSC-TECH-05-2026",
+    "title": "UPSC Junior Technical Officer & Scientist-B Recruitment",
+    "organization": "Union Public Service Commission (UPSC)",
+    "postCode": "UPSC-JTO-SCI-2026",
+    "vacanciesCount": "193 Vacancies",
+    "minAge": 21,
+    "maxAge": 40,
+    "educationRequired": "B.E./B.Tech or Master's Degree in Civil, Mechanical, Electrical, or Electronics & Communication Engineering",
+    "eligibleCategories": "All Categories",
+    "feeDetails": "General/OBC/EWS Male: ₹25, SC/ST/Female/PwBD: Free",
+    "applicationStartDate": "23 May 2026",
+    "applicationEndDate": "12 Jun 2026",
+    "officialLink": "https://upsconline.nic.in",
+    "stepsToApply": "Step 1: Open the official UPSC ORA portal at upsconline.nic.in.||Step 2: Sign in using your centralized OTR platform profile.||Step 3: Select either Junior Technical Officer or Scientist-B from the active application grid.||Step 4: Map your specific engineering/science engineering academic track credentials to the profile fields.||Step 5: Pay the processing fee online and generate your final PDF application tracking slip.",
+    "aiPersonalizedTip": "High-tier engineering breakthrough! This bypasses complex standard competitive exams like GATE or Engineering Services Examination (ESE), routing candidates based on core profile strength and targeted conceptual interviews for immediate Level-10 technical ranks.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 95,
+    "examPattern": "Recruitment Test (RT) if applications are high, followed by an interview. RT is 120 questions, 300 marks, 2 hours.",
+    "syllabus": [
+      "General Aptitude",
+      "Engineering Discipline Specific",
+      "General Science",
+      "Current Affairs"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "UPSC Engineering Services Exam (ESE) General Studies & Engineering Aptitude",
+        "author": "Made Easy Publications",
+        "buyLink": "https://www.amazon.in/dp/B08L7V4Q4G"
+      },
+      {
+        "title": "Objective General English",
+        "author": "S.P. Bakshi",
+        "buyLink": "https://www.amazon.in/dp/8190641320"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "POST-RPSC-RAS-2026",
+    "title": "RPSC Rajasthan Administrative Services (RAS) 2026",
+    "organization": "Rajasthan Public Service Commission (RPSC)",
+    "postCode": "RPSC-RAS-607",
+    "vacanciesCount": "607 Vacancies",
+    "minAge": 21,
+    "maxAge": 40,
+    "educationRequired": "Bachelor's Degree (Graduation) in any stream",
+    "eligibleCategories": "All Categories",
+    "feeDetails": "General/Unreserved: ₹600, SC/ST/OBC/BC/EWS/PwBD: ₹400",
+    "applicationStartDate": "04 Jun 2026",
+    "applicationEndDate": "03 Jul 2026",
+    "officialLink": "https://rpsc.rajasthan.gov.in",
+    "stepsToApply": "Step 1: Go to the official rpsc.rajasthan.gov.in or access the state SSO portal.||Step 2: Complete or log in through your One-Time Registration (OTR) link.||Step 3: Select the Rajasthan Administrative Services (RAS) 2026 recruitment notification card.||Step 4: Verify your pre-filled OTR academic profile and upload required domicile certificates if claiming state reservation.||Step 5: Pay the single-time registration fee online and secure your final application acknowledgment code.",
+    "aiPersonalizedTip": "High-tier administrative gateway! A pristine opportunity to lock in Group A state civil executive profiles (SDM, DSP, Accounts Service) through the updated RPSC three-tier framework.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 97,
+    "examPattern": "Prelims: 150 Questions, 200 Marks, 3 Hours. Mains: 4 Papers, 800 Marks. Interview: 100 Marks.",
+    "syllabus": [
+      "History, Art, Culture, Literature, Tradition & Heritage of Rajasthan",
+      "Indian History",
+      "Indian & World Geography",
+      "Indian Constitution, Political System & Governance"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "Rajasthan RAS/RTS Preliminary Exam Guide",
+        "author": "Lakshya Publications",
+        "buyLink": "https://www.amazon.in/dp/B08L7V4Q4G"
+      },
+      {
+        "title": "Indian Polity",
+        "author": "M. Laxmikanth",
+        "buyLink": "https://www.amazon.in/dp/9354911002"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "POST-IDBI-ESO-2026",
+    "title": "IDBI Bank Executive (Sales & Operations) Recruitment",
+    "organization": "IDBI Bank Ltd.",
+    "postCode": "IDBI-ESO-2026-27",
+    "vacanciesCount": "1,300 Vacancies",
+    "minAge": 20,
+    "maxAge": 25,
+    "educationRequired": "Bachelor's Degree (Graduation) in any discipline",
+    "eligibleCategories": "All Categories",
+    "feeDetails": "General/OBC/EWS: ₹1050, SC/ST/PwBD: ₹200",
+    "applicationStartDate": "22 May 2026",
+    "applicationEndDate": "10 Jun 2026",
+    "officialLink": "https://www.idbibank.in",
+    "stepsToApply": "Step 1: Navigate to the Careers tab on idbibank.in.||Step 2: Click on the link for 'Recruitment of Executive - Sales and Operations (ESO) 2026-27'.||Step 3: Open the IBPS portal page and click for New Registration.||Step 4: Provide accurate structural info and upload your left thumb impression along with the standard handwritten declaration text.||Step 5: Process the transactional fee via the online banking gateway and download your final system-generated printout.",
+    "aiPersonalizedTip": "Accelerated Career Path! This operates as a fast-track contract engagement structure that features a definitive internal review pipeline to directly transition into Assistant Manager (Grade A) status upon completing 3 years of benchmark service.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 93,
+    "examPattern": "Online test: 200 Questions, 200 Marks, 120 Minutes. 0.25 negative marking.",
+    "syllabus": [
+      "Reasoning, Data Analysis & Interpretation",
+      "English Language",
+      "Quantitative Aptitude",
+      "General/Economy/Banking Awareness"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "IDBI Bank Executive Exam Guide",
+        "author": "R. Gupta's",
+        "buyLink": "https://www.amazon.in/dp/818312959X"
+      },
+      {
+        "title": "Objective General English",
+        "author": "S.P. Bakshi",
+        "buyLink": "https://www.amazon.in/dp/8190641320"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "POST-SEBI-MGR-A-2026",
+    "title": "SEBI Officer Grade A (Assistant Manager) Recruitment",
+    "organization": "Securities and Exchange Board of India (SEBI)",
+    "postCode": "SEBI-GR-A-2026",
+    "vacanciesCount": "97 Vacancies",
+    "minAge": 21,
+    "maxAge": 30,
+    "educationRequired": "Master's Degree in Economics/Commerce/Stat/BA or Bachelor's Degree in Law/Engineering",
+    "eligibleCategories": "All Categories",
+    "feeDetails": "General/OBC/EWS: ₹1000, SC/ST/PwBD: ₹100",
+    "applicationStartDate": "25 May 2026",
+    "applicationEndDate": "15 Jun 2026",
+    "officialLink": "https://www.sebi.gov.in",
+    "stepsToApply": "Step 1: Access the Careers portal at the bottom of the official sebi.gov.in homepage.||Step 2: Click on the online application link corresponding to the 2026 Grade A Officer notification.||Step 3: Register on the centralized examination console with your basic email and mobile metrics.||Step 4: Select your targeted stream (General, Legal, Information Technology, or Economics) and input your postgraduate grade indicators.||Step 5: Clear the application fee using an online instrument and archive your digital application proof.",
+    "aiPersonalizedTip": "Elite financial domain opportunity! Outstanding baseline package for candidates with analytical profiles. Phase 1 and Phase 2 contain heavily weighted specialized papers covering economics, corporate finance, and securities markets laws.",
+    "isSaved": false,
+    "isAiGenerated": false,
+    "ratingMatchScore": 96,
+    "examPattern": "Phase I: 2 Papers (100 marks each, 60 mins each). Phase II: 2 Papers (100 marks each, 40/180 mins). Interview.",
+    "syllabus": [
+      "General Awareness",
+      "English Language",
+      "Quantitative Aptitude",
+      "Reasoning Ability"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "SEBI Grade A Officer Exam Guide",
+        "author": "EduGorilla Prep Experts",
+        "buyLink": "https://www.amazon.in/dp/B08L7V4Q4G"
+      },
+      {
+        "title": "Indian Economy",
+        "author": "Ramesh Singh",
+        "buyLink": "https://www.amazon.in/dp/9354911002"
+      }
+    ],
+    "fetchedAt": 1780554289448
+  },
+  {
+    "id": "SSC-CHSL-2026",
+    "title": "SSC CHSL (10+2)",
+    "organization": "Staff Selection Commission (SSC)",
+    "postCode": "SSC-CHSL-2026",
+    "vacanciesCount": "3,712 posts",
+    "minAge": 18,
+    "maxAge": 27,
+    "educationRequired": "12th Standard Pass",
+    "eligibleCategories": "All",
+    "feeDetails": "General/OBC is ₹100, SC/ST and Women are completely exempted",
+    "applicationStartDate": "05 Jun 2026",
+    "applicationEndDate": "05 Jul 2026",
+    "officialLink": "https://ssc.gov.in",
+    "stepsToApply": "Visit the official website ssc.gov.in || Complete the One-Time Registration (OTR) process || Log in and fill out the CHSL 2026 application form || Upload your photograph, signature, and required documents || Pay the application fee online if applicable and submit",
+    "aiPersonalizedTip": "As a female or SC/ST applicant, you are completely exempted from paying the registration fee! This is an excellent opportunity to apply without any financial barrier and secure a stable government job.",
+    "ratingMatchScore": 95,
+    "examPattern": "Tier 1: 100 objective questions, 200 marks, 60 minutes.",
+    "syllabus": [
+      "Quant",
+      "Reasoning",
+      "English",
+      "GA"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "Quantitative Aptitude for Competitive Examinations",
+        "author": "R.S. Aggarwal",
+        "buyLink": "https://www.amazon.in/dp/9355225134"
+      },
+      {
+        "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
+        "author": "R.S. Aggarwal",
+        "buyLink": "https://www.amazon.in/dp/9355225134"
+      }
+    ],
+    "fetchedAt": 1780557574421
+  },
+  {
+    "id": "RRB-NTPC-SM-2026",
+    "title": "RRB NTPC Station Master",
+    "organization": "Railway Recruitment Board (RRB)",
+    "postCode": "RRB-SM-09",
+    "vacanciesCount": "4,500 posts",
+    "minAge": 18,
+    "maxAge": 33,
+    "educationRequired": "Graduate in any stream",
+    "eligibleCategories": "General / OBC / SC / ST / EWS",
+    "feeDetails": "Refer to official notification for category-wise fee details and relaxations",
+    "applicationStartDate": "To be announced",
+    "applicationEndDate": "To be announced",
+    "officialLink": "https://indianrailways.gov.in",
+    "stepsToApply": "Go to the official portal indianrailways.gov.in || Select your respective regional RRB portal || Fill out the online application form for Station Master (Post Code: RRB-SM-09) || Upload educational certificates and other required documents || Submit the application and print the confirmation page",
+    "aiPersonalizedTip": "With a graduate degree, you are fully eligible to apply for this prestigious Station Master role. Make sure to leverage domicile state quota rules which can significantly lower the qualifying cut-off marks for you.",
+    "ratingMatchScore": 88,
+    "examPattern": "CBT exam covering Math shortcuts, general analytics, and GK.",
+    "syllabus": [
+      "Math shortcuts",
+      "General analytics",
+      "GK",
+      "General Awareness"
+    ],
+    "recommendedBooks": [
+      {
+        "title": "Fast Track Objective Arithmetic",
+        "author": "Rajesh Verma",
+        "buyLink": "https://www.amazon.in/dp/9351760140"
+      },
+      {
+        "title": "General Knowledge",
+        "author": "Manohar Pandey",
+        "buyLink": "https://www.amazon.in/dp/9325295588"
+      }
+    ],
+    "fetchedAt": 1780557574421
+  }
+]
