@@ -160,46 +160,6 @@
     "fetchedAt": 1780554289448
   },
   {
-    "id": "POST-SBI-APPR-2026",
-    "title": "SBI Apprentice Recruitment 2026",
-    "organization": "State Bank of India (SBI)",
-    "postCode": "CRPD/APPR/2026-27/07",
-    "vacanciesCount": "7,150 Vacancies",
-    "minAge": 20,
-    "maxAge": 28,
-    "educationRequired": "Bachelor's Degree (Graduation) in any stream",
-    "eligibleCategories": "All Categories",
-    "feeDetails": "General/OBC/EWS: ₹300, SC/ST/PwBD: Free",
-    "applicationStartDate": "19 May 2026",
-    "applicationEndDate": "08 Jun 2026",
-    "officialLink": "https://sbi.co.in/web/careers",
-    "stepsToApply": "Step 1: Go to the official SBI Careers current openings page.||Step 2: Locate the Apprentice engagement notification link and select New Registration.||Step 3: Fill out basic contact info to generate dynamic login credentials.||Step 4: Input your graduation metrics, select state preferences, and upload your local language proficiency declaration.||Step 5: Upload your standard photograph/signature scan, pay the entry fee online, and lock the final form.",
-    "aiPersonalizedTip": "Excellent practical platform! This offers a direct 1-year banking internship ecosystem inside corporate SBI with a monthly stipend growing up to ₹19,000, along with heavily weighted structural relaxations if you appear for regular SBI Clerk/PO vacancies later.",
-    "isSaved": false,
-    "isAiGenerated": false,
-    "ratingMatchScore": 94,
-    "examPattern": "Online written test: 100 Questions, 100 Marks, 60 Minutes. No negative marking.",
-    "syllabus": [
-      "General/Financial Awareness",
-      "General English",
-      "Quantitative Aptitude",
-      "Reasoning Ability & Computer Aptitude"
-    ],
-    "recommendedBooks": [
-      {
-        "title": "SBI Apprentice Exam Guide",
-        "author": "Disha Experts",
-        "buyLink": "https://www.amazon.in/dp/9389926490"
-      },
-      {
-        "title": "Objective General English",
-        "author": "S.P. Bakshi",
-        "buyLink": "https://www.amazon.in/dp/8190641320"
-      }
-    ],
-    "fetchedAt": 1780554289448
-  },
-  {
     "id": "POST-UPSC-TECH-05-2026",
     "title": "UPSC Junior Technical Officer & Scientist-B Recruitment",
     "organization": "Union Public Service Commission (UPSC)",
@@ -400,7 +360,7 @@
     "examBlueprint": "Quant: 25 Qs / 50 Mks || Reasoning: 25 Qs / 50 Mks || English: 25 Qs / 50 Mks || GA: 25 Qs / 50 Mks",
     "previousYearPapers": "2025 Paper: https://ssc.gov.in/papers/chsl_2025.pdf || 2024 Paper: https://ssc.gov.in/papers/chsl_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1780934716509
+    "fetchedAt": 1780977744437
   },
   {
     "id": "RRB-NTPC-SM-2026",
@@ -443,6 +403,6 @@
     "examBlueprint": "Math: 30 Qs / 30 Mks || Reasoning: 30 Qs / 30 Mks || GA: 40 Qs / 40 Mks",
     "previousYearPapers": "2025 Paper: https://indianrailways.gov.in/papers/ntpc_2025.pdf || 2024 Paper: https://indianrailways.gov.in/papers/ntpc_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1780934716510
+    "fetchedAt": 1780977744438
   }
 ]
