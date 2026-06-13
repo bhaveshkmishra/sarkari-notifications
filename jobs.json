@@ -120,86 +120,6 @@
     "fetchedAt": 1780554289448
   },
   {
-    "id": "POST-UPSC-DR-05-2026",
-    "title": "UPSC Direct Recruitment (Advt No. 05/2026)",
-    "organization": "Union Public Service Commission (UPSC)",
-    "postCode": "UPSC-GAZ-05-2026",
-    "vacanciesCount": "194 Vacancies",
-    "minAge": 21,
-    "maxAge": 40,
-    "educationRequired": "Degree/PG in Engineering, Science, Commerce, Economics or relevant field (Post-wise variation)",
-    "eligibleCategories": "All Categories",
-    "feeDetails": "General/OBC/EWS Male: ₹25, SC/ST/Female/PwBD: Free",
-    "applicationStartDate": "23 May 2026",
-    "applicationEndDate": "12 Jun 2026",
-    "officialLink": "https://upsconline.nic.in",
-    "stepsToApply": "Step 1: Visit the UPSC Online Recruitment Application (ORA) window at upsconline.nic.in/ora.||Step 2: Sign in using your OTR (One Time Registration) credentials.||Step 3: Pick the specific Group A or Group B Gazetted post matching your precise qualification.||Step 4: Upload high-quality digital proofs of your educational credentials and work experience certificates.||Step 5: Process the entry fee and complete your final submission layout.",
-    "aiPersonalizedTip": "Zero Written Tests! Shortlisting is done based on your academic profile and credentials, directly followed by a heavy-weight interview round for Permanent Gazetted Status.",
-    "isSaved": false,
-    "isAiGenerated": false,
-    "ratingMatchScore": 95,
-    "examPattern": "No written exam. Shortlisting based on academic profile and experience, followed by an interview.",
-    "syllabus": [
-      "General Aptitude",
-      "Relevant Subject Knowledge",
-      "Current Affairs",
-      "Interview Skills"
-    ],
-    "recommendedBooks": [
-      {
-        "title": "UPSC Direct Recruitment Interview Guide",
-        "author": "Experts' Compilation",
-        "buyLink": "https://www.amazon.in/dp/B08L7V4Q4G"
-      },
-      {
-        "title": "The Hindu Newspaper (Daily)",
-        "author": "N. Ram",
-        "buyLink": "https://www.thehindu.com/subscription/"
-      }
-    ],
-    "fetchedAt": 1780554289448
-  },
-  {
-    "id": "POST-UPSC-TECH-05-2026",
-    "title": "UPSC Junior Technical Officer & Scientist-B Recruitment",
-    "organization": "Union Public Service Commission (UPSC)",
-    "postCode": "UPSC-JTO-SCI-2026",
-    "vacanciesCount": "193 Vacancies",
-    "minAge": 21,
-    "maxAge": 40,
-    "educationRequired": "B.E./B.Tech or Master's Degree in Civil, Mechanical, Electrical, or Electronics & Communication Engineering",
-    "eligibleCategories": "All Categories",
-    "feeDetails": "General/OBC/EWS Male: ₹25, SC/ST/Female/PwBD: Free",
-    "applicationStartDate": "23 May 2026",
-    "applicationEndDate": "12 Jun 2026",
-    "officialLink": "https://upsconline.nic.in",
-    "stepsToApply": "Step 1: Open the official UPSC ORA portal at upsconline.nic.in.||Step 2: Sign in using your centralized OTR platform profile.||Step 3: Select either Junior Technical Officer or Scientist-B from the active application grid.||Step 4: Map your specific engineering/science engineering academic track credentials to the profile fields.||Step 5: Pay the processing fee online and generate your final PDF application tracking slip.",
-    "aiPersonalizedTip": "High-tier engineering breakthrough! This bypasses complex standard competitive exams like GATE or Engineering Services Examination (ESE), routing candidates based on core profile strength and targeted conceptual interviews for immediate Level-10 technical ranks.",
-    "isSaved": false,
-    "isAiGenerated": false,
-    "ratingMatchScore": 95,
-    "examPattern": "Recruitment Test (RT) if applications are high, followed by an interview. RT is 120 questions, 300 marks, 2 hours.",
-    "syllabus": [
-      "General Aptitude",
-      "Engineering Discipline Specific",
-      "General Science",
-      "Current Affairs"
-    ],
-    "recommendedBooks": [
-      {
-        "title": "UPSC Engineering Services Exam (ESE) General Studies & Engineering Aptitude",
-        "author": "Made Easy Publications",
-        "buyLink": "https://www.amazon.in/dp/B08L7V4Q4G"
-      },
-      {
-        "title": "Objective General English",
-        "author": "S.P. Bakshi",
-        "buyLink": "https://www.amazon.in/dp/8190641320"
-      }
-    ],
-    "fetchedAt": 1780554289448
-  },
-  {
     "id": "POST-RPSC-RAS-2026",
     "title": "RPSC Rajasthan Administrative Services (RAS) 2026",
     "organization": "Rajasthan Public Service Commission (RPSC)",
@@ -320,7 +240,7 @@
     "examBlueprint": "Quant: 25 Qs / 50 Mks || Reasoning: 25 Qs / 50 Mks || English: 25 Qs / 50 Mks || GA: 25 Qs / 50 Mks",
     "previousYearPapers": "2025 Paper: https://ssc.gov.in/papers/chsl_2025.pdf || 2024 Paper: https://ssc.gov.in/papers/chsl_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1781278066962
+    "fetchedAt": 1781324248550
   },
   {
     "id": "RRB-NTPC-SM-2026",
@@ -363,6 +283,6 @@
     "examBlueprint": "Math: 30 Qs / 30 Mks || Reasoning: 30 Qs / 30 Mks || GA: 40 Qs / 40 Mks || General Awareness: 0 Qs / 0 Mks",
     "previousYearPapers": "2025 Paper: https://indianrailways.gov.in/papers/ntpc_2025.pdf || 2024 Paper: https://indianrailways.gov.in/papers/ntpc_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1781278066962
+    "fetchedAt": 1781324248551
   }
 ]
