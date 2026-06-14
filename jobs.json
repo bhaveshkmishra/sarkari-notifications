@@ -240,7 +240,7 @@
     "examBlueprint": "Quant: 25 Qs / 50 Mks || Reasoning: 25 Qs / 50 Mks || English: 25 Qs / 50 Mks || GA: 25 Qs / 50 Mks",
     "previousYearPapers": "2025 Paper: https://ssc.gov.in/papers/chsl_2025.pdf || 2024 Paper: https://ssc.gov.in/papers/chsl_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1781412288865
+    "fetchedAt": 1781446579833
   },
   {
     "id": "RRB-NTPC-SM-2026",
@@ -257,7 +257,7 @@
     "applicationEndDate": "To be announced",
     "officialLink": "https://indianrailways.gov.in",
     "stepsToApply": "Go to the official portal indianrailways.gov.in || Select your respective regional RRB portal || Fill out the online application form for Station Master || Upload educational certificates and other required documents || Submit the application and print the confirmation page",
-    "aiPersonalizedTip": "With a graduate degree, you are fully eligible to apply for this prestigious Station Master role. Make sure to leverage domicile state quota rules which can significantly lower the qualifying cut-off marks.",
+    "aiPersonalizedTip": "With a graduate degree, you are fully eligible to apply for this prestigious Station Master role. Female and SC/ST candidates get a fully refundable application fee of ₹250 after appearing in CBT 1.",
     "ratingMatchScore": 88,
     "examPattern": "CBT exam covering Math shortcuts, general analytics, and GK.",
     "syllabus": [
@@ -283,6 +283,6 @@
     "examBlueprint": "Math: 30 Qs / 30 Mks || Reasoning: 30 Qs / 30 Mks || GA: 40 Qs / 40 Mks",
     "previousYearPapers": "2025 Paper: https://indianrailways.gov.in/papers/ntpc_2025.pdf || 2024 Paper: https://indianrailways.gov.in/papers/ntpc_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1781412288866
+    "fetchedAt": 1781446579834
   }
 ]
