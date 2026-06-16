@@ -160,46 +160,6 @@
     "fetchedAt": 1780554289448
   },
   {
-    "id": "POST-SEBI-MGR-A-2026",
-    "title": "SEBI Officer Grade A (Assistant Manager) Recruitment",
-    "organization": "Securities and Exchange Board of India (SEBI)",
-    "postCode": "SEBI-GR-A-2026",
-    "vacanciesCount": "97 Vacancies",
-    "minAge": 21,
-    "maxAge": 30,
-    "educationRequired": "Master's Degree in Economics/Commerce/Stat/BA or Bachelor's Degree in Law/Engineering",
-    "eligibleCategories": "All Categories",
-    "feeDetails": "General/OBC/EWS: ₹1000, SC/ST/PwBD: ₹100",
-    "applicationStartDate": "25 May 2026",
-    "applicationEndDate": "15 Jun 2026",
-    "officialLink": "https://www.sebi.gov.in",
-    "stepsToApply": "Step 1: Access the Careers portal at the bottom of the official sebi.gov.in homepage.||Step 2: Click on the online application link corresponding to the 2026 Grade A Officer notification.||Step 3: Register on the centralized examination console with your basic email and mobile metrics.||Step 4: Select your targeted stream (General, Legal, Information Technology, or Economics) and input your postgraduate grade indicators.||Step 5: Clear the application fee using an online instrument and archive your digital application proof.",
-    "aiPersonalizedTip": "Elite financial domain opportunity! Outstanding baseline package for candidates with analytical profiles. Phase 1 and Phase 2 contain heavily weighted specialized papers covering economics, corporate finance, and securities markets laws.",
-    "isSaved": false,
-    "isAiGenerated": false,
-    "ratingMatchScore": 96,
-    "examPattern": "Phase I: 2 Papers (100 marks each, 60 mins each). Phase II: 2 Papers (100 marks each, 40/180 mins). Interview.",
-    "syllabus": [
-      "General Awareness",
-      "English Language",
-      "Quantitative Aptitude",
-      "Reasoning Ability"
-    ],
-    "recommendedBooks": [
-      {
-        "title": "SEBI Grade A Officer Exam Guide",
-        "author": "EduGorilla Prep Experts",
-        "buyLink": "https://www.amazon.in/dp/B08L7V4Q4G"
-      },
-      {
-        "title": "Indian Economy",
-        "author": "Ramesh Singh",
-        "buyLink": "https://www.amazon.in/dp/9354911002"
-      }
-    ],
-    "fetchedAt": 1780554289448
-  },
-  {
     "id": "SSC-CHSL-2026",
     "title": "SSC CHSL (10+2)",
     "organization": "Staff Selection Commission (SSC)",
@@ -240,7 +200,7 @@
     "examBlueprint": "Quant: 25 Qs / 50 Mks || Reasoning: 25 Qs / 50 Mks || English: 25 Qs / 50 Mks || GA: 25 Qs / 50 Mks",
     "previousYearPapers": "2025 Paper: https://ssc.gov.in/papers/chsl_2025.pdf || 2024 Paper: https://ssc.gov.in/papers/chsl_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1781544178595
+    "fetchedAt": 1781586024172
   },
   {
     "id": "RRB-NTPC-SM-2026",
@@ -283,6 +243,6 @@
     "examBlueprint": "Math: 30 Qs / 30 Mks || Reasoning: 30 Qs / 30 Mks || GA: 40 Qs / 40 Mks",
     "previousYearPapers": "2025 Paper: https://indianrailways.gov.in/papers/ntpc_2025.pdf || 2024 Paper: https://indianrailways.gov.in/papers/ntpc_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1781544178596
+    "fetchedAt": 1781586024173
   }
 ]
