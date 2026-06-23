@@ -40,86 +40,6 @@
     "fetchedAt": 1780554289448
   },
   {
-    "id": "POST-GDS-26",
-    "title": "India Post Gramin Dak Sevak (GDS)",
-    "organization": "Department of Posts, India",
-    "postCode": "GDS-BPM-10",
-    "vacanciesCount": "44,228 Vacancies",
-    "minAge": 18,
-    "maxAge": 40,
-    "educationRequired": "10th Standard (Matric) Pass",
-    "eligibleCategories": "All Categories",
-    "feeDetails": "General/OBC: ₹100, SC/ST/Female: Free",
-    "applicationStartDate": "01 Jun 2026",
-    "applicationEndDate": "22 Jun 2026",
-    "officialLink": "https://indiapostgdsonline.gov.in",
-    "stepsToApply": "Step 1: Go to indiapostgdsonline.gov.in portal.||Step 2: Create profile using OTR option.||Step 3: Enter Matric 10th Marks (Selection is direct, based on 10th Board merit percentage!).||Step 4: Choose your regional Post circles & options list.||Step 5: Apply preference lists and submit.",
-    "aiPersonalizedTip": "Zero exams! Selection is made strictly dynamically based on your high school 10th-grade percentage scores.",
-    "isSaved": false,
-    "isAiGenerated": false,
-    "ratingMatchScore": 96,
-    "examPattern": "No written exam. Selection is based on merit list derived from 10th standard marks.",
-    "syllabus": [
-      "Mathematics (10th Level)",
-      "Local Language",
-      "General Knowledge",
-      "Basic Computer Knowledge"
-    ],
-    "recommendedBooks": [
-      {
-        "title": "India Post GDS Recruitment Guide",
-        "author": "Arihant Experts",
-        "buyLink": "https://www.amazon.in/dp/932529876X"
-      },
-      {
-        "title": "Lucent's General Knowledge",
-        "author": "Lucent Publications",
-        "buyLink": "https://www.amazon.in/dp/9386293028"
-      }
-    ],
-    "fetchedAt": 1780554289448
-  },
-  {
-    "id": "POST-SSC-CGL-2026",
-    "title": "SSC Combined Graduate Level (CGL) 2026",
-    "organization": "Staff Selection Commission (SSC), India",
-    "postCode": "SSC-CGL-2026-B-C",
-    "vacanciesCount": "12,256 Vacancies",
-    "minAge": 18,
-    "maxAge": 32,
-    "educationRequired": "Bachelor's Degree (Graduation) in any discipline",
-    "eligibleCategories": "All Categories",
-    "feeDetails": "General/OBC/EWS: ₹100, SC/ST/Female/PwBD: Free",
-    "applicationStartDate": "21 May 2026",
-    "applicationEndDate": "22 Jun 2026",
-    "officialLink": "https://ssc.gov.in",
-    "stepsToApply": "Step 1: Go to official ssc.gov.in portal.||Step 2: Log in or complete One-Time Registration (OTR).||Step 3: Access the live application system and capture a mandatory live photograph via webcam/mobile app.||Step 4: Fill in personal and academic details, select post preferences, and choose exam centers.||Step 5: Pay the processing fee online (if applicable) and final-submit the application format.",
-    "aiPersonalizedTip": "Big Structural Changes! Sectional timings are introduced in Tier-1 (15 minutes per section). Speed and tactical time allocation will decide your qualifying cutoff.",
-    "isSaved": false,
-    "isAiGenerated": false,
-    "ratingMatchScore": 98,
-    "examPattern": "Tier 1: 100 Questions, 200 Marks, 60 Minutes (15 mins per section). 0.50 negative marking.",
-    "syllabus": [
-      "General Intelligence & Reasoning",
-      "General Awareness",
-      "Quantitative Aptitude",
-      "English Comprehension"
-    ],
-    "recommendedBooks": [
-      {
-        "title": "SSC CGL Tier I & II Solved Papers",
-        "author": "Kiran Prakashan",
-        "buyLink": "https://www.amazon.in/dp/9354911002"
-      },
-      {
-        "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
-        "author": "R.S. Aggarwal",
-        "buyLink": "https://www.amazon.in/dp/9355225134"
-      }
-    ],
-    "fetchedAt": 1780554289448
-  },
-  {
     "id": "POST-RPSC-RAS-2026",
     "title": "RPSC Rajasthan Administrative Services (RAS) 2026",
     "organization": "Rajasthan Public Service Commission (RPSC)",
@@ -200,7 +120,7 @@
     "examBlueprint": "Quant: 25 Qs / 50 Mks || Reasoning: 25 Qs / 50 Mks || English: 25 Qs / 50 Mks || GA: 25 Qs / 50 Mks",
     "previousYearPapers": "2025 Paper: https://ssc.gov.in/papers/chsl_2025.pdf || 2024 Paper: https://ssc.gov.in/papers/chsl_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1782148014795
+    "fetchedAt": 1782187284601
   },
   {
     "id": "RRB-NTPC-SM-2026",
@@ -243,6 +163,6 @@
     "examBlueprint": "Math: 30 Qs / 30 Mks || Reasoning: 30 Qs / 30 Mks || GA: 40 Qs / 40 Mks",
     "previousYearPapers": "2025 Paper: https://indianrailways.gov.in/papers/ntpc_2025.pdf || 2024 Paper: https://indianrailways.gov.in/papers/ntpc_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1782148014795
+    "fetchedAt": 1782187284602
   }
 ]
