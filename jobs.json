@@ -1,45 +1,5 @@
 [
   {
-    "id": "SSC-CGL-24",
-    "title": "SSC CGL Assistant Section Officer",
-    "organization": "Staff Selection Commission (SSC)",
-    "postCode": "CGL-ASO-03",
-    "vacanciesCount": "17,727 Posts",
-    "minAge": 18,
-    "maxAge": 30,
-    "educationRequired": "Bachelor's Degree in any discipline",
-    "eligibleCategories": "All (General / OBC / SC / ST / EWS)",
-    "feeDetails": "General / OBC: ₹100, Others/Women: Free",
-    "applicationStartDate": "15 May 2026",
-    "applicationEndDate": "30 Jun 2026",
-    "officialLink": "https://ssc.gov.in",
-    "stepsToApply": "Step 1: Visit https://ssc.gov.in and complete One-Time Registration (OTR).||Step 2: Login using your Registration Number and Password.||Step 3: Go to Apply tab and select Combined Graduate Level Exam (CGL) 2026.||Step 4: Choose your preferred exam centers (Tier-1).||Step 5: Verify eligibility relaxation based on your category code.||Step 6: Submit application and download final copy.",
-    "aiPersonalizedTip": "This is a prime match for your profile! Excellent opportunities with massive central government perks and security.",
-    "isSaved": false,
-    "isAiGenerated": false,
-    "ratingMatchScore": 98,
-    "examPattern": "Tier 1: 100 Questions, 200 Marks, 60 Minutes. 0.50 negative marking.",
-    "syllabus": [
-      "General Intelligence & Reasoning",
-      "General Awareness",
-      "Quantitative Aptitude",
-      "English Comprehension"
-    ],
-    "recommendedBooks": [
-      {
-        "title": "SSC CGL Combined Graduate Level Exam Guide",
-        "author": "R. Gupta's",
-        "buyLink": "https://www.amazon.in/dp/818312959X"
-      },
-      {
-        "title": "Objective General English",
-        "author": "S.P. Bakshi",
-        "buyLink": "https://www.amazon.in/dp/8190641320"
-      }
-    ],
-    "fetchedAt": 1780554289448
-  },
-  {
     "id": "POST-RPSC-RAS-2026",
     "title": "RPSC Rajasthan Administrative Services (RAS) 2026",
     "organization": "Rajasthan Public Service Commission (RPSC)",
@@ -120,7 +80,7 @@
     "examBlueprint": "Quant: 25 Qs / 50 Mks || Reasoning: 25 Qs / 50 Mks || English: 25 Qs / 50 Mks || GA: 25 Qs / 50 Mks",
     "previousYearPapers": "2025 Paper: https://ssc.gov.in/papers/chsl_2025.pdf || 2024 Paper: https://ssc.gov.in/papers/chsl_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1782829842814
+    "fetchedAt": 1782879674470
   },
   {
     "id": "RRB-NTPC-SM-2026",
@@ -163,6 +123,6 @@
     "examBlueprint": "Math: 30 Qs / 30 Mks || Reasoning: 30 Qs / 30 Mks || GA: 40 Qs / 40 Mks",
     "previousYearPapers": "2025 Paper: https://indianrailways.gov.in/papers/ntpc_2025.pdf || 2024 Paper: https://indianrailways.gov.in/papers/ntpc_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1782829842814
+    "fetchedAt": 1782879674471
   }
 ]
