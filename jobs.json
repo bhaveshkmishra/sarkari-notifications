@@ -1,48 +1,5 @@
 [
   {
-    "id": "SSC-CHSL-2026",
-    "title": "SSC CHSL (10+2)",
-    "organization": "Staff Selection Commission (SSC)",
-    "postCode": "SSC-CHSL-2026",
-    "vacanciesCount": "3,712+ Posts",
-    "minAge": 18,
-    "maxAge": 27,
-    "educationRequired": "12th Standard Pass",
-    "eligibleCategories": "All",
-    "feeDetails": "General/OBC is ₹100, others/women are Free",
-    "applicationStartDate": "05 Jun 2026",
-    "applicationEndDate": "05 Jul 2026",
-    "officialLink": "https://ssc.gov.in",
-    "stepsToApply": "Visit the official website ssc.gov.in || Complete the One-Time Registration (OTR) process || Log in and fill out the CHSL 2026 application form || Upload your photograph, signature, and required documents || Pay the application fee online if applicable and submit",
-    "aiPersonalizedTip": "As a female or SC/ST applicant, you are completely exempted from paying the registration fee! This is an excellent opportunity to apply without any financial barrier.",
-    "ratingMatchScore": 95,
-    "examPattern": "Tier 1: 100 objective questions, 200 marks, 60 minutes. 0.50 negative marking.",
-    "syllabus": [
-      "Quant",
-      "Reasoning",
-      "English",
-      "GA"
-    ],
-    "recommendedBooks": [
-      {
-        "title": "Quantitative Aptitude for Competitive Examinations",
-        "author": "R.S. Aggarwal",
-        "buyLink": "https://www.amazon.in/dp/9355225134"
-      },
-      {
-        "title": "A Modern Approach to Verbal & Non-Verbal Reasoning",
-        "author": "R.S. Aggarwal",
-        "buyLink": "https://www.amazon.in/dp/9355225134"
-      }
-    ],
-    "officialPdfLink": "https://ssc.gov.in/files/notice_chsl_2026.pdf",
-    "previousYearCutoffs": "General: 145 || OBC: 140 || SC: 125 || ST: 115 || EWS: 138",
-    "examBlueprint": "Quant: 25 Qs / 50 Mks || Reasoning: 25 Qs / 50 Mks || English: 25 Qs / 50 Mks || GA: 25 Qs / 50 Mks",
-    "previousYearPapers": "2025 Paper: https://ssc.gov.in/papers/chsl_2025.pdf || 2024 Paper: https://ssc.gov.in/papers/chsl_2024.pdf",
-    "notificationType": "VACANCY",
-    "fetchedAt": 1783259481056
-  },
-  {
     "id": "RRB-NTPC-SM-2026",
     "title": "RRB NTPC Station Master",
     "organization": "Railway Recruitment Board (RRB)",
@@ -83,6 +40,6 @@
     "examBlueprint": "Math & Reasoning: 60 Qs / 60 Mks || General Awareness: 40 Qs / 40 Mks",
     "previousYearPapers": "2025 Paper: https://indianrailways.gov.in/papers/ntpc_2025.pdf || 2024 Paper: https://indianrailways.gov.in/papers/ntpc_2024.pdf",
     "notificationType": "VACANCY",
-    "fetchedAt": 1783259481057
+    "fetchedAt": 1783310578280
   }
 ]
